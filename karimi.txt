@@ -6,4 +6,9 @@ Favourite Quote:
     "...But I have promises to keep and miles to go before I sleep, and miles to go before I sleep"
 Interesting thing about data: 
     Less than 0.5% of the data created is used /Utilised
+<<<<<<< HEAD
 ,,
+=======
+LinkedIn Url:
+    https://neetcode.io/practice
+>>>>>>> 710c4dc44d69fb19132c880296c9a28ea8f027c0
